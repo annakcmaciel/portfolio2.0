@@ -5,7 +5,7 @@ Criei um novo site de portfólio para organizar melhor meus projetos e incluir u
 ### Resultado Final:  
 [**Portfólio**]([https://annakcmaciel.github.io/portfolio/](https://annakcmaciel.github.io/portfolio2.0/index.html))
 
-[![Landing Page Preview](https://cdn-images-1.medium.com/max/800/1*PjxHM-fydRHGRBv50nIQDg.png)](https://annakcmaciel.github.io/portfolio/)
+[![Landing Page Preview]([[https://cdn-images-1.medium.com/max/800/1*PjxHM-fydRHGRBv50nIQDg.png](https://www.google.com/imgres?q=em%20constru%C3%A7%C3%A3o&imgurl=https%3A%2F%2Fbos.org.br%2Fwp-content%2Fuploads%2F2021%2F10%2Fconstrucao.png&imgrefurl=https%3A%2F%2Fbos.org.br%2Fem-construcao%2F&docid=Pp7Bi0Ga0h1tkM&tbnid=LP-zDMTNyn-QQM&vet=12ahUKEwjFlaiSsp6KAxUFq5UCHcjWHcgQM3oECFYQAA..i&w=1600&h=715&hcb=2&ved=2ahUKEwjFlaiSsp6KAxUFq5UCHcjWHcgQM3oECFYQAA)](https://bos.org.br/wp-content/uploads/2021/10/construcao.png))]([https://annakcmaciel.github.io/portfolio/](https://annakcmaciel.github.io/portfolio2.0/index.html))
 
 ---
 
