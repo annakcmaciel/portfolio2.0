@@ -1,40 +1,54 @@
-# Portfolio 
-Fiz a criação de um novo portfolio site que possibilitasse incluir mais projetos de forma organizada e um blog para conseguir consolidar minhas postagens. 
-Agora com um conhecimento maior de CSS com a experiencia adquirida no projeto #Resultado : [Portfólio]( https://annakcmaciel.github.io/portfolio/ )
+# Portfolio
+
+Criei um novo site de portfólio para organizar melhor meus projetos e incluir um blog que consolidasse minhas postagens. Com este projeto, pude aprimorar ainda mais meu conhecimento em CSS e adquirir experiência prática no desenvolvimento web.
+
+### Resultado Final:  
+[**Portfólio**]([https://annakcmaciel.github.io/portfolio/](https://annakcmaciel.github.io/portfolio2.0/index.html))
 
 [![Landing Page Preview](https://cdn-images-1.medium.com/max/800/1*PjxHM-fydRHGRBv50nIQDg.png)](https://annakcmaciel.github.io/portfolio/)
 
+---
 
-Fui inicialmente para a escolha de um template para download 
-Na Página da ( https://startbootstrap.com/) você consegue diversos temas para Download.
+## Etapas do Desenvolvimento
 
-Onde o tema escolhido conseguia trazer a possibilidade de contato, curriculo, portfolio de projetos e fiz uma modificação adicionando mais um blog 
+### Passo 1 - Escolha do Template  
+Para facilitar o desenvolvimento inicial, optei por usar um template pré-existente. Encontrei várias opções na página [Start Bootstrap](https://startbootstrap.com/), que oferece temas gratuitos para download.
 
-https://startbootstrap.com/theme/personal 
+O tema escolhido foi o [Personal](https://startbootstrap.com/theme/personal), que já trazia as funcionalidades essenciais, como:  
+- Área de contato  
+- Currículo online  
+- Portfólio de projetos  
 
-Veja o que é aplicavel para você e faça o dowload
+**Modificações realizadas:**  
+- Adicionei uma seção para um blog, ampliando as funcionalidades do site.  
 
+**Dica:** Explore os temas disponíveis na página e escolha aquele que melhor se adapta às suas necessidades. Após isso, faça o download do template.
 
-## Passo 2 - Download e Instalação
+---
 
-* [Tema original utilizado](https://startbootstrap.com/theme/resume)
-
-Se voce não tem nenhuma aplicação para alterar o codigo em html indico o download de sublimetext 
-Ferramenta simples e eficiente, como já tinha o vs code instalado fiz a modificação por ele mesmo 
-
-
-
-## Passo 3 - Alterações
-
-### No arquivo index.html - Você conseguirá alterar as informações da página. 
-Ex: Nome , e-mail , educação, prêmios,links , etc. 
-
-### No arquivo css/styles - Você conseguirá alterar cores , fontes e tamanhos dos dados apresentados
-
-### Na pasta assets/img - Você irá conseguir substituir a imagem "profile" original 
+### Passo 2 - Download e Instalação
 
 
-## Copyright e licença
+#### Ferramentas recomendadas para edição:
+- **VS Code** (utilizado por mim): Um editor completo para modificar o código HTML, CSS , JavaScript, etc.  
+- **Sublime Text**: Alternativa mais simples e eficiente para iniciantes.
 
-Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-landing-page/blob/master/LICENSE) license.
+Caso ainda não tenha um editor de código instalado, recomendo fazer o download do [Sublime Text](https://www.sublimetext.com/), pois ele é fácil de usar e leve.
 
+---
+
+### Passo 3 - Alterações Realizadas  
+
+#### Arquivo `index.html`  
+- Personalizei as informações da página inicial (Home), incluindo textos e links.  
+- Adicionei a funcionalidade de abertura de links em novas abas.  
+
+#### Arquivo `css/styles.css`  
+- Modifiquei cores, fontes e tamanhos para adequar o design ao estilo desejado.  
+
+#### Pasta `assets/img`  
+- Substituí a imagem padrão do tema (profile) por uma personalizada.  
+
+---
+
+Se você quiser replicar este projeto, siga os passos descritos acima e adapte conforme suas necessidades. Fique à vontade para explorar o código no repositório e contribuir com melhorias!
